@@ -1,7 +1,8 @@
-# wx-chat-node
+# wechat-node
 
-- 命令行运行微信聊天，引入node交互进程
+- 在终端上进行微信聊天
 - 基于[Wechaty](http://github.com/wechaty/wechaty)开源项目开发。
+- node交互进程
 
 ## 环境要求
 ```bash
